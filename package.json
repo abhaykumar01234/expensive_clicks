@@ -1,0 +1,18 @@
+{
+  "name": "gartner-coding-assignment",
+  "version": "1.0.0",
+  "main": "src/solution",
+  "scripts": {
+    "solution": "node src/solution",
+    "test": "node test/support/run"
+  },
+  "keywords": [
+    "Common JS"
+  ],
+  "author": "Abhay Kumar",
+  "license": "ISC",
+  "description": "Solution for click data",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
+}
